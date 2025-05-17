@@ -1,0 +1,7 @@
+tweepy
+pandas
+nba_api
+openai
+flask
+python-dotenv
+pytz
